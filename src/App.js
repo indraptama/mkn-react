@@ -1,5 +1,5 @@
 import React from "react";
-import TopBar from "./Components/TopBar";
+import TopBar from "./Components/TopBar/index.js";
 // import logo from "./logo.svg";
 // import "./App.css";
 
